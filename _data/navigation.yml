@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Home"
+    url: /
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Lab Challenges"
+    url: /labs/
+  - title: "Certifications"
+    url: /certifications/
+  - title: "Contact"
+    url: /contact/
